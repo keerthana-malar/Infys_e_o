@@ -1,3 +1,7 @@
 Canonical tag --  <link rel="canonical" href="https://infygain.com" />
 Domain name provider --> verfication 
   goto cpanel --> select domain --> give manage --> apply filter txt --> edit --> add record --> save record -->goto gsc click verify
+DNS - Blueshost
+  1.Log in to your Bluehost control panel.
+  2.Click the Domains tab from the navigation menu that stretches across the top of your screen.
+  3.Click the Zone Editor from the sub-menu.
