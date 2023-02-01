@@ -5,7 +5,7 @@ Schema Generator : https://technicalseo.com/tools/schema-markup-generator/
 
 Google Search Central :https://developers.google.com/search/docs/appearance/structured-data/search-gallery  
 
-source code:
+source code: (ADD THIS CODE TO HEADER SECTION)
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
