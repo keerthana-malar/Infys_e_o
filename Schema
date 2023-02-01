@@ -2,3 +2,48 @@ Tools:
 Rich Results : https://search.google.com/test/rich-results
 Structured Data : https://developers.google.com/search/docs/appearance/structured-data
 Schema Generator : https://technicalseo.com/tools/schema-markup-generator/
+
+source code:
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Infygain Technologies",
+  "image": "https://infygain.com/images/logo.svg",
+  "@id": "",
+  "url": "https://infygain.com/",
+  "telephone": "0422 350 0770",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "saravanampatti",
+    "addressLocality": "Coimbatore",
+    "postalCode": "641020",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 11.0796991,
+    "longitude": 76.9997393
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "09:45",
+    "closes": "20:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/infygain/",
+    "https://twitter.com/infygain",
+    "https://www.instagram.com/infygain/",
+    "https://www.youtube.com/@infygain6707",
+    "https://www.linkedin.com/company/infygain-technologies/"
+  ] 
+}
+</script>
